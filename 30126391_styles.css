@@ -1,0 +1,16 @@
+/* Hero Section */
+
+.hero-section
+{
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center;
+    background-image: url('images/background-large.jpg'); /* Default background image */
+    background-size: cover; /* Cover the entire section */
+    background-position: center; /* Center the image */
+    color: white; /* Adjust text color for contrast */
+}
+
+
+/* Responsive Background Images */
